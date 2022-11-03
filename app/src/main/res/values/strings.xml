@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Proyek Akhir</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_author">Book Author</string>
+    <string name="menu_about">Menu About</string>
+    <string name="profile_name">Joko Yan Anugerah Zai</string>
+    <string name="email">jokoyanzai@gmail.com</string>
+    <string name="book_desc">Book descriptions</string>
+    <string name="book_category">Book Category</string>
+    <string name="book_language">English</string>
+    <string name="book_publisher">Random Publisher</string>
+    <string name="book_year">2022</string>
+    <string name="book_pages">192</string>
+    <string name="label_category">Category:</string>
+    <string name="label_language">Language:</string>
+    <string name="label_publisher">Publisher:</string>
+    <string name="label_year">Year:</string>
+    <string name="label_pages">Pages:</string>
+    <string name="favorite">Favorite</string>
+</resources>

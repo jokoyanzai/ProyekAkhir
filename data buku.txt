@@ -1,0 +1,118 @@
+// judul buku
+Why We Sleep: Unlocking the Power of Sleep and Dreams
+The Science Book
+Essential Grammar in Use with Answers, 4th Edition
+The Intelligent Investor: The Definitive Book On Value Investing, Revised Edition
+Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+Ikigai: The Japanese Secret to a Long and Happy Life
+Python Crash Course, 2nd Edition
+Finish What You Start: The Art of Following Through, Taking Action, Executing, & Self-Discipline
+The Psychology of Money: Timeless lessons on wealth, greed, and happiness
+12 Rules for Life: An Antidote to Chaos
+
+// author
+Walker PhD, Matthew
+DK Publishing
+Raymond Murphy
+Benjamin Graham, Jason Zweig
+James Clear
+Héctor García, Francesc Miralles
+Eric Matthes
+Peter Hollins
+Morgan Housel
+Jordan B. Peterson
+
+// deskripsi
+"Sleep is one of the most important but least understood aspects of our life, wellness, and longevity ... An explosion of scientific discoveries in the last twenty years has shed new light on this fundamental aspect of our lives. Now ... neuroscientist and sleep expert Matthew Walker gives us a new understanding of the vital importance of sleep and dreaming"--Amazon.com.
+Provides a visual introduction to the disciplines of astronomy, biology, chemistry, geology, and physics, helping to break down complicated ideas into manageable concepts.
+Grammar in Use is the world's best selling grammar series for learners of English. Essential Grammar in Use with Answers, authored by Raymond Murphy, is the first choice for elementary level (A1 B1) learners and covers all the grammar required at this level. It is a self study book with simple explanations and lots of practice exercises, and has helped millions of people around the world to communicate in English. It is also trusted by teachers and can be used as a supplementary text in classrooms.
+More than one million hardcovers sold Now available for the first time in paperback! The Classic Text Annotated to Update Graham's Timeless Wisdom for Today's Market Conditions The greatest investment advisor of the twentieth century, Benjamin Graham taught and inspired people worldwide. Graham's philosophy of "value investing" -- which shields investors from substantial error and teaches them to develop long-term strategies -- has made The Intelligent Investor the stock market bible ever since its original publication in 1949. Over the years, market developments have proven the wisdom of Graham's strategies. While preserving the integrity of Graham's original text, this revised edition includes updated commentary by noted financial journalist Jason Zweig, whose perspective incorporates the realities of today's market, draws parallels between Graham's examples and today's financial headlines, and gives readers a more thorough understanding of how to apply Graham's principles. Vital and indispensable, this HarperBusiness Essentials edition of The Intelligent Investor is the most important book you will ever read on how to reach your financial goals.
+No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.
+According to the Japanese, everyone has an ikigai—a reason for living. And according to the residents of the Japanese village with the world’s longest-living people, finding it is the key to a happier and longer life. Having a strong sense of ikigai—the place where passion, mission, vocation, and profession intersect—means that each day is infused with meaning. It’s the reason we get up in the morning. It’s also the reason many Japanese never really retire (in fact there’s no word in Japanese that means retire in the sense it does in English): They remain active and work at what they enjoy, because they’ve found a real purpose in life—the happiness of always being busy.
+Python Crash Course is the world’s best-selling guide to the Python programming language. This fast-paced, thorough introduction to programming with Python will have you writing programs, solving problems, and making things that work in no time.
+Practical tactics to grow your willpower, stop procrastination, focus like a laser, and achieve whatever you set your mind to. Following through and finishing what you start- more valuable skills than you realize. They are a combination of traits that enables you to create the life you want - without having to compromise or wait. The alternative is a status quo that you’re stuck in.
+Doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. Money—investing, personal finance, and business decisions—is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In The Psychology of Money, award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important topics.
+What does everyone in the modern world need to know? Renowned psychologist Jordan B. Peterson's answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research. Humorous, surprising and informative, Dr. Peterson tells us why skateboarding boys and girls must be left alone, what terrible fate awaits those who criticize too easily, and why you should always pet a cat when you meet one on the street.
+
+// kategori
+Medicine
+Science (General) - Scientific-popular
+Languages - Grammar, dictionaries & phrasebooks
+Business & Economics - Investing
+Self-Help, Relationships & Lifestyle - Personal Growth
+Self-Help, Relationships & Lifestyle - Aging
+Computers - Programming
+Self-Help, Relationships & Lifestyle - Psychological Self-Help
+Business & Economics
+Self-Help, Relationships & Lifestyle - Psychological Self-Help
+
+// bahasa
+English
+English
+English
+English
+English
+English
+English
+English
+English
+English
+
+// penerbit
+Scribner
+Dorling Kindersley
+Cambridge University Press
+HarperCollins
+Avery
+Penguin Books
+No Starch Press
+CreateSpace
+Harriman House
+Random House Canada
+
+// tahun terbit
+2017
+2014
+2015
+2003
+2018
+2017
+2019
+2018
+2020
+2018
+
+// jumlah halaman
+368
+354
+318
+641
+319
+194
+548
+133
+200
+409
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

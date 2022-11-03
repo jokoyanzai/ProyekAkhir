@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/iv_detail_cover"
+                android:layout_width="200dp"
+                android:layout_height="266dp"
+                android:layout_marginEnd="16dp"
+                tools:src="@drawable/atomic_habits" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/iv_detail_cover"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/TextContent"
+                    android:text="@string/label_category" />
+
+                <TextView
+                    android:id="@+id/tv_detail_category"
+                    style="@style/TextContent.Value"
+                    tools:text="@string/book_category" />
+
+                <TextView
+                    style="@style/TextContent"
+                    android:text="@string/label_language" />
+
+                <TextView
+                    android:id="@+id/tv_detail_language"
+                    style="@style/TextContent.Value"
+                    tools:text="@string/book_language" />
+
+                <TextView
+                    style="@style/TextContent"
+                    android:text="@string/label_publisher" />
+
+                <TextView
+                    android:id="@+id/tv_detail_publisher"
+                    style="@style/TextContent.Value"
+                    tools:text="@string/book_publisher" />
+
+                <TextView
+                    style="@style/TextContent"
+                    android:text="@string/label_year" />
+
+                <TextView
+                    android:id="@+id/tv_detail_year"
+                    style="@style/TextContent.Value"
+                    tools:text="@string/book_year" />
+
+                <TextView
+                    style="@style/TextContent"
+                    android:text="@string/label_pages" />
+
+                <TextView
+                    android:id="@+id/tv_detail_pages"
+                    style="@style/TextContent.Value"
+                    tools:text="@string/book_pages" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_detail_title"
+            style="@style/TextContent.Title"
+            android:textSize="32sp"
+            tools:text="@string/book_title" />
+
+        <TextView
+            android:id="@+id/tv_detail_author"
+            style="@style/TextContent.Author"
+            android:layout_marginBottom="16dp"
+            android:textSize="16sp"
+            tools:text="@string/book_author" />
+
+        <TextView
+            android:id="@+id/tv_detail_desc"
+            style="@style/TextContent"
+            android:lineSpacingMultiplier="1"
+            android:layout_marginBottom="16dp"
+            tools:text="@string/book_desc" />
+
+        <Button
+            android:id="@+id/btn_favorite"
+            style="@style/ButtonGeneral"
+            android:text="@string/favorite" />
+    </LinearLayout>
+</ScrollView>
